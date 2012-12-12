@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Μπαταρία</string>
+    <string name="battery_heading">Κατάσταση Μπαταρίας</string>
+    <string name="health_title">Υγεία: </string>
+    <string name="status_title">Κατάσταση: </string>
+    <string name="level_title">Πληρότητα: </string>
+    <string name="temperature_title">Θερμοκρασία: </string>
+    <string name="voltage_title">Τάση: </string>
+    <string name="loading">Εύρεση κατάστασης...</string>
+
+</resources>
